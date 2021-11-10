@@ -1,4 +1,13 @@
 - layout: top-middle
+  title: Synthesizing Realistic Human Dance Motions Conditioned by Musical Data using Graph Convolutional Networks.
+  authors: João Ferreira, Renato Martins, Erickson R Nascimento
+  pdf: https://sol.sbc.org.br/index.php/ctd/article/view/15762/15603
+  #project: https://www.verlab.dcc.ufmg.br/retargeting-motion/
+  #video: https://www.youtube.com/watch?v=fGDK6UkKzvA
+  award: Finalist of the Best M.Sc. Thesis in Computer Science in the 2021 Brazilian Computing Society's Contest
+  # award: Best Paper
+
+- layout: top-middle
   title: A Shape-Aware Retargeting Approach to Transfer Human Motion and Appearance in Monocular Videos
   authors: Thiago L Gomes, Renato Martins, João Ferreira, Rafael Azevedo, Guilherme Torres, Erickson R Nascimento
   pdf: https://link.springer.com/article/10.1007/s11263-021-01471-x

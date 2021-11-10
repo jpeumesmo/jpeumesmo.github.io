@@ -1,13 +1,17 @@
 - layout: left
   name: Universidade Federal de Minas Gerais
-  dates: 2018 - nowadays
+  dates: 2018 - 2020
   qualification: M.Sc Computer Science
   image: assets/education/ufmg.png
   link: https://ufmg.br/
   quote: >
     The Universidade Federal de Minas Gerais (UFMG) is a Brazilian federal public higher education institution, headquartered in the city of Belo Horizonte, in the state of Minas Gerais. It is the largest university in the state of Minas Gerais and has campuses in the cities of Belo Horizonte, Tiradentes and Montes Claros.
   description: | # this will include new lines to allow paragraphs
-    I am currently finishing my Master's Degree at UFMG. The department of computer science at university is one of the most prestigious department in Latin America. I have developed my skills in Machine Learning and Computer Vision during my master's course, and had the opportunity to work in a research and development project funded by Petrobras, the biggest Brazilian oil company. Also, I contributed to the laboratory infrastructure, working on the maintenance and repair of several workstations, servers, and systems of distributed file systems through the network.
+    The department of computer science at university is one of the most prestigious department in Latin America. I have developed my skills in Machine Learning and Computer Vision during my master's course, and had the opportunity to work in a research and development project funded by Petrobras, the biggest Brazilian oil company. Also, I contributed to the laboratory infrastructure, working on the maintenance and repair of several workstations, servers, and systems of distributed file systems through the network.
+    <p>
+    <font color="red">Best M.Sc. Dissertation Award in the Workshop of Theses and Dissertations in Graphics, Patterns and Images - WTD/SIBGRAPI 2021</font>
+    <p>
+    <font color="red">Finalist of the Best M.Sc. Dissertation in Computer Science in the 2021 Brazilian Computing Society's Contest</font>
 
 - layout: left
   name: Universidade Federal de São João del-Rei

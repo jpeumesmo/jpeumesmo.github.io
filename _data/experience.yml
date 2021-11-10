@@ -1,8 +1,17 @@
 - layout: left
+  company: Eldorado Research Institute
+  link: https://www.eldorado.org.br/
+  job_title: Software Analyst
+  dates: Dezember 2020 - nowadays
+  #image: assets/experience/multivisao.png
+  description: | # this will include new lines to allow paragraphs
+    I work as a software analyst in a project for image and video enhancement in smartphones' camera pipeline. Exploring classical image processing solutions, as well as, deep learning ones. During the project, I worked with deep learning frameworks, building CI pipelines, and developing a native Android library.
+    
+- layout: left
   company: Fundação de Desenvolvimento da Pesquisa - Petrobras
   link: https://www.verlab.dcc.ufmg.br/
   job_title: Developer - Scholarship
-  dates: Dezembro 2018 - Present
+  dates: Dezember 2018 - November 2020
   image: assets/experience/multivisao.png
   quote: >
     Work as developer in a research and development project with Petrobras as a partner.
