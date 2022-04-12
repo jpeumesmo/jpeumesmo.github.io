@@ -1,7 +1,7 @@
 <div class="container publications-container">
   <h3>{{ site.publication_title | default: "Publications" }}</h3>
   {% for publication in site.data.publications %}
-  {%- if not publication.dissertation -%}
+  {%- if !publication.dissertation -%}
   <div class="row clearfix layout layout-top-middle">
     <div class="col-xs-12 col-print-12 details">
       <h4>{{ publication.title }}</h4>
