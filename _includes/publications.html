@@ -1,6 +1,7 @@
 <div class="container publications-container">
   <h3>{{ site.publication_title | default: "Publications" }}</h3>
   {% for publication in site.data.publications %}
+  {%- if not publication.dissertation -%}
   <div class="row clearfix layout layout-top-middle">
     <div class="col-xs-12 col-print-12 details">
       <h4>{{ publication.title }}</h4>
@@ -31,8 +32,11 @@
       {%- endif -%} 
    
     </div>
+  </div>
+  {%- endif -%}
 
   <!-- Layout for Dissertation -->
+  {%- if publication.dissertation -%}
   <div class="row clearfix layout layout-top-middle-dissertation">
     <div class="col-xs-12 col-print-12 details">
       <h4>{{ publication.title }}</h4>
@@ -64,10 +68,12 @@
        {%- endif -%} 
       </div>
       {%- endif -%} 
-   
+
     </div>
   </div>
-    <!-- {% include {{ publication.layout | default: 'left' | append: ".html" }} item=publication %} -->
-  {% endfor %}
+  {%- endif -%}
   <!-- END -->
+
+  <!-- {% include {{ publication.layout | default: 'left' | append: ".html" }} item=publication %} -->
+  {% endfor %}
 </div>
