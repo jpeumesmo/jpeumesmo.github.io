@@ -1,9 +1,9 @@
 - layout: top-middle
   title: Synthesizing Realistic Human Dance Motions Conditioned by Musical Data using Graph Convolutional Networks.
   authors: João Ferreira, Renato Martins, Erickson R Nascimento
-  pdf: https://sol.sbc.org.br/index.php/ctd/article/view/15762/15603
-  pdf: http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45DAPHE
-  pdf: https://repositorio.ufmg.br/handle/1843/38880
+  sbc: https://sol.sbc.org.br/index.php/ctd/article/view/15762/15603
+  sibgrapi: http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45DAPHE
+  dissertation: https://repositorio.ufmg.br/handle/1843/38880
   #project: https://www.verlab.dcc.ufmg.br/retargeting-motion/
   #video: https://www.youtube.com/watch?v=fGDK6UkKzvA
   award: Finalist of the Best M.Sc. Thesis in Computer Science in the 2021 Brazilian Computing Society's Contest
