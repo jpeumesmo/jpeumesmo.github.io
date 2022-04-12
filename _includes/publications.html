@@ -15,7 +15,7 @@
       {%- if publication.award -%}
       <h5><i class="fa fa-trophy" aria-hidden="true"></i>{{ publication.award }}</h5>
       {%- endif -%}
-      {%- if publication.pdf | publication.project | publication.video | publication.dissertation -%}
+      {%- if publication.pdf | publication.project | publication.video | publication.dissertation | publication.sbc | publication.sibgrapi -%}
       <div class="btn-links">
         <!-- Code specifc for the dissertation papers and dissertation text -->
         {%- if publication.sbc -%}
